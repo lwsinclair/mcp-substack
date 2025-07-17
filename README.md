@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michalnaka-mcp-substack-badge.png)](https://mseep.ai/app/michalnaka-mcp-substack)
+
 # MCP Substack Server
 
 A Model Context Protocol (MCP) server for downloading and parsing Substack posts. Works with Claude.ai desktop app.
